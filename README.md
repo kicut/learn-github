@@ -1,2 +1,2 @@
-# learn-github
+# Learn Github
 repo for learning github
